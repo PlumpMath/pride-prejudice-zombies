@@ -8,7 +8,7 @@ Naive Clojure markov chains coded at the London Clojure Dojo
 
 1. Clone this repository `git clone https://github.com/funkotron/pride-prejudice-zombies.git`
 2. cd into the project directory `cd pride-prejudice-zombies`
-1. `lein run` _This writes 1000 words to `prejudice.txt`_
+1. `lein run`     (_This writes 1000 words to `prejudice.txt`_)
 1. Open `prejudice.txt` in a text editor to view the output
 
 ## Code
