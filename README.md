@@ -1,14 +1,14 @@
-# pride-prejudice-zombies
+# Pride, Prejudice, Zombies & Markov Chains
 
-
+![https://www.flickr.com/photos/sundaykofax/3370230169](https://farm4.staticflickr.com/3292/3370230169_44518c9e08_o_d.jpg)
 
 ## Usage
 
-lein run
+`lein run`
+
+This writes 1000 words to `prejudice.txt`
 
 ## License
 
-Copyright © 2015 FIXME
+https://www.tldrlegal.com/l/beerware
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
