@@ -8,6 +8,10 @@
 
 This writes 1000 words to `prejudice.txt`
 
+## Code
+
+Code & comments in `src/pride_prejudice_zombies/core.clj`
+
 ## License
 
 https://www.tldrlegal.com/l/beerware
